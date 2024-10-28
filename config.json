@@ -17,8 +17,8 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "100053549552408",
-    "61557118090040"
+    "100076343334427",
+    ""
   ],
   "whiteListMode": {
     "enable": false,
@@ -29,8 +29,8 @@
   "AGE": "18",
   "GENDER": "MALE",
   "nickNameBot": "Yazkybot",
-  "FACEBOOK": "https://www.facebook.com/swordigo.swordslush",
-  "prefix": "✓",
+  "FACEBOOK": "https://www.facebook.com/",
+  "prefix": "-",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
